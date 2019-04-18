@@ -1,6 +1,6 @@
 // Update with your config settings.
 // //added after deployment
-localDbConnection = {
+localPgConnection = {
   host: "localhost",
   database: "hobbits",
   user: "Lydia",
