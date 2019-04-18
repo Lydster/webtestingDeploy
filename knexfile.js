@@ -1,5 +1,5 @@
 // Update with your config settings.
-//added after deployment
+// //added after deployment
 localDbConnection = {
   host: "localhost",
   database: "hobbits",
