@@ -40,4 +40,5 @@ in terminal
   
 4. npx heroku run knex seed:run -a <webappname>
 
-https://dashboard.heroku.com/apps/awesomelydsterposgres
+
+https://awesomelydsterposgres.herokuapp.com/hobbits
